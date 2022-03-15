@@ -9,5 +9,5 @@ const HelloDiv = styled.div`
 `;
 
 export default function Home() {
-  return <HelloDiv>hello world</HelloDiv>;
+  return <HelloDiv>hello world Test</HelloDiv>;
 }
